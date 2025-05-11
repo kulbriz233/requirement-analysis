@@ -76,3 +76,18 @@ These focus on how the system performs rather than what it does. Examples for th
 - **Data Backup and Recovery:** Regular data backups and recovery mechanisms to prevent data loss.  
 - **Compliance:** Ensure that the system adheres to data privacy regulations like GDPR.  
 - **Usability:** The user interface should be intuitive and accessible to users with varying technical expertise.  
+
+## Use Case Diagrams  
+
+Use Case Diagrams provide a visual representation of the interactions between system actors (e.g., users, administrators) and various use cases (functionalities) of the system. They help in identifying the main processes and the different roles interacting with those processes.  
+
+### Benefits of Use Case Diagrams:
+- **Clarifies Functional Scope:** Helps in clearly defining the boundaries of the system’s functionalities.
+- **Identifies Key Actors:** Shows who interacts with the system and how.
+- **Visualizes User Interactions:** Simplifies complex processes by illustrating the flow of interactions.
+
+### Use Case Diagram for the Booking Management System:
+
+Below is the use case diagram for a booking management system, highlighting the main actors and their interactions with the system:  
+
+![alx-booking-uc](https://github.com/user-attachments/assets/e7e2c8ac-9b74-4deb-adad-225e841eb572)
